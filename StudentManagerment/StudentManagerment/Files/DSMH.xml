@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSachMonHoc>
+	<MonHoc>
+		<TenMonHoc>Nhập môn lập trình</TenMonHoc>
+		<SoTiet>45</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+	<MonHoc>
+		<TenMonHoc>Thực hành nhập môn lập trình</TenMonHoc>
+		<SoTiet>60</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+	<MonHoc>
+		<TenMonHoc>Kỹ thuật lập trình</TenMonHoc>
+		<SoTiet>30</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+	<MonHoc>
+		<TenMonHoc>Thực hành kỹ thuật lập trình</TenMonHoc>
+		<SoTiet>30</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+	<MonHoc>
+		<TenMonHoc>Cấu trúc rời rạc</TenMonHoc>
+		<SoTiet>45</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+	<MonHoc>
+		<TenMonHoc>Cấu trúc dữ liệu và giải thuật</TenMonHoc>
+		<SoTiet>45</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+	<MonHoc>
+		<TenMonHoc>Thực hành cấu trúc dữ liệu và giải thuật</TenMonHoc>
+		<SoTiet>60</SoTiet>
+		<TyLeQuaTrinh>0.3</TyLeQuaTrinh>
+		<TyLeThanhPhan>0.7</TyLeThanhPhan>
+	</MonHoc>
+</DanhSachMonHoc>

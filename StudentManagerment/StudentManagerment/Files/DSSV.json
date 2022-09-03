@@ -1,0 +1,53 @@
+[
+  {
+    "MaSinhVien": "2001200000",
+    "Ten": "Tr\u1EA7n V\u0103n An",
+    "GioiTinh": "Nam",
+    "NgaySinh": "2002-01-01T00:00:00",
+    "Lop": "11DHTH01",
+    "KhoaHoc": 2020,
+    "NgayVaoTruong": "2020-09-18T00:00:00",
+    "Khoa": "Khoa C\u00F4ng ngh\u1EC7 Th\u00F4ng tin",
+    "TrangThai": "\u0110ang h\u1ECDc",
+    "BacDaoTao": "\u0110\u1EA1i h\u1ECDc",
+    "SDT": "0909090909",
+    "CMND": "225134491",
+    "DiaChiTT": "B\u00ECnh T\u00E2n, H\u1ED3 Ch\u00ED Minh",
+    "DanToc": "Kinh",
+    "TonGiao": "Kh\u00F4ng"
+  },
+  {
+    "MaSinhVien": "2001200011",
+    "Ten": "Nguy\u1EC5n Gia B\u1EA3o",
+    "GioiTinh": "Nam",
+    "NgaySinh": "2002-03-11T00:00:00",
+    "Lop": "11DHTH01",
+    "KhoaHoc": 2020,
+    "NgayVaoTruong": "2020-09-20T00:00:00",
+    "Khoa": "Khoa C\u00F4ng ngh\u1EC7 Th\u00F4ng tin",
+    "TrangThai": "\u0110ang h\u1ECDc",
+    "BacDaoTao": "\u0110\u1EA1i h\u1ECDc",
+    "SDT": "0932410909",
+    "CMND": "200137431",
+    "DiaChiTT": "Qu\u1EADn 12, H\u1ED3 Ch\u00ED Minh",
+    "DanToc": "Kinh",
+    "TonGiao": "Kh\u00F4ng"
+  },
+  {
+    "MaSinhVien": "2001200202",
+    "Ten": "Nguy\u1EC5n Th\u1ECB L\u1EC7",
+    "GioiTinh": "N\u1EEF",
+    "NgaySinh": "2002-04-10T00:00:00",
+    "Lop": "11DHTH01",
+    "KhoaHoc": 2020,
+    "NgayVaoTruong": "2020-09-19T00:00:00",
+    "Khoa": "Khoa C\u00F4ng ngh\u1EC7 Th\u00F4ng tin",
+    "TrangThai": "\u0110ang h\u1ECDc",
+    "BacDaoTao": "\u0110\u1EA1i h\u1ECDc",
+    "SDT": "0367546311",
+    "CMND": "886534117",
+    "DiaChiTT": "T\u00E2n Ph\u00FA, H\u1ED3 Ch\u00ED Minh",
+    "DanToc": "Kinh",
+    "TonGiao": "\u0110\u1EA1o Thi\u00EAn Ch\u00FAa"
+  }
+]

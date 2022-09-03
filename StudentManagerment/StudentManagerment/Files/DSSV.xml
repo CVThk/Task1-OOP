@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSachSinhVien>
+	<SinhVien>
+		<MaSV>2001200000</MaSV>
+		<Ten>Trần Văn An</Ten>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>01/01/2002</NgaySinh>
+		<NgayVaoTruong>18/09/2020</NgayVaoTruong>
+		<Lop>11DHTH01</Lop>
+		<Khoa>Khoa Công nghệ Thông tin</Khoa>
+		<TrangThai>Đang học</TrangThai>
+		<BacDaoTao>Đại học</BacDaoTao>
+		<SDT>0909090909</SDT>
+		<CMND>225134491</CMND>
+		<DCTT>Bình Tân, Hồ Chí Minh</DCTT>
+		<DanToc>Kinh</DanToc>
+		<TonGiao>Không</TonGiao>
+	</SinhVien>
+
+	<SinhVien>
+		<MaSV>2001200011</MaSV>
+		<Ten>Nguyễn Gia Bảo</Ten>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>11/03/2002</NgaySinh>
+		<NgayVaoTruong>20/09/2020</NgayVaoTruong>
+		<Lop>11DHTH01</Lop>
+		<Khoa>Khoa Công nghệ Thông tin</Khoa>
+		<TrangThai>Đang học</TrangThai>
+		<BacDaoTao>Đại học</BacDaoTao>
+		<SDT>0932410909</SDT>
+		<CMND>200137431</CMND>
+		<DCTT>Quận 12, Hồ Chí Minh</DCTT>
+		<DanToc>Kinh</DanToc>
+		<TonGiao>Không</TonGiao>
+	</SinhVien>
+
+	<SinhVien>
+		<MaSV>2001200202</MaSV>
+		<Ten>Nguyễn Thị Lệ</Ten>
+		<GioiTinh>Nữ</GioiTinh>
+		<NgaySinh>10/04/2002</NgaySinh>
+		<NgayVaoTruong>19/09/2020</NgayVaoTruong>
+		<Lop>11DHTH01</Lop>
+		<Khoa>Khoa Công nghệ Thông tin</Khoa>
+		<TrangThai>Đang học</TrangThai>
+		<BacDaoTao>Đại học</BacDaoTao>
+		<SDT>0367546311</SDT>
+		<CMND>886534117</CMND>
+		<DCTT>Tân Phú, Hồ Chí Minh</DCTT>
+		<DanToc>Kinh</DanToc>
+		<TonGiao>Đạo Thiên Chúa</TonGiao>
+	</SinhVien>
+</DanhSachSinhVien>

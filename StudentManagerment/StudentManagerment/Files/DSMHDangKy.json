@@ -1,0 +1,77 @@
+[
+  {
+    "bangDiem": [
+      {
+        "MonHoc": {
+          "TenMonHoc": "Nh\u1EADp m\u00F4n l\u1EADp tr\u00ECnh",
+          "SoTiet": 45,
+          "TyLeQT": 3,
+          "TyLeTP": 7
+        },
+        "DiemMonHoc": {
+          "DiemQuaTrinh": -1,
+          "DiemThanhPhan": -1
+        }
+      },
+      {
+        "MonHoc": {
+          "TenMonHoc": "K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh",
+          "SoTiet": 30,
+          "TyLeQT": 3,
+          "TyLeTP": 7
+        },
+        "DiemMonHoc": {
+          "DiemQuaTrinh": -1,
+          "DiemThanhPhan": -1
+        }
+      }
+    ],
+    "MaSinhVien": "2001200000"
+  },
+  {
+    "bangDiem": [
+      {
+        "MonHoc": {
+          "TenMonHoc": "K\u1EF9 thu\u1EADt l\u1EADp tr\u00ECnh",
+          "SoTiet": 30,
+          "TyLeQT": 3,
+          "TyLeTP": 7
+        },
+        "DiemMonHoc": {
+          "DiemQuaTrinh": 8,
+          "DiemThanhPhan": 9
+        }
+      },
+      {
+        "MonHoc": {
+          "TenMonHoc": "C\u1EA5u tr\u00FAc r\u1EDDi r\u1EA1c",
+          "SoTiet": 45,
+          "TyLeQT": 3,
+          "TyLeTP": 7
+        },
+        "DiemMonHoc": {
+          "DiemQuaTrinh": -1,
+          "DiemThanhPhan": -1
+        }
+      }
+    ],
+    "MaSinhVien": "2001200202"
+  },
+  {
+    "bangDiem": [
+      {
+        "MonHoc": {
+          "TenMonHoc": "C\u1EA5u tr\u00FAc r\u1EDDi r\u1EA1c",
+          "SoTiet": 45,
+          "TyLeQT": 3,
+          "TyLeTP": 7
+        },
+        "DiemMonHoc": {
+          "DiemQuaTrinh": -1,
+          "DiemThanhPhan": -1
+        }
+      }
+    ],
+    "MaSinhVien": "2001200011"
+  }
+]

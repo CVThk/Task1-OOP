@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSMHDK>
+	<DangKy>
+		<MSSV>2001200000</MSSV>
+		<MonHoc>
+			<TenMH>Nhập môn lập trình</TenMH>
+			<SoTiet>45</SoTiet>
+			<DiemQuaTrinh>-1</DiemQuaTrinh>
+			<DiemThanhPhan>-1</DiemThanhPhan>
+		</MonHoc>
+	</DangKy>
+	<DangKy>
+		<MSSV>2001200000</MSSV>
+		<MonHoc>
+			<TenMH>Kỹ thuật lập trình</TenMH>
+			<SoTiet>30</SoTiet>
+			<DiemQuaTrinh>-1</DiemQuaTrinh>
+			<DiemThanhPhan>-1</DiemThanhPhan>
+		</MonHoc>
+	</DangKy>
+	<DangKy>
+		<MSSV>2001200202</MSSV>
+		<MonHoc>
+			<TenMH>Kỹ thuật lập trình</TenMH>
+			<SoTiet>30</SoTiet>
+			<DiemQuaTrinh>-1</DiemQuaTrinh>
+			<DiemThanhPhan>-1</DiemThanhPhan>
+		</MonHoc>
+	</DangKy>
+	<DangKy>
+		<MSSV>2001200202</MSSV>
+		<MonHoc>
+			<TenMH>Cấu trúc rời rạc</TenMH>
+			<SoTiet>45</SoTiet>
+			<DiemQuaTrinh>-1</DiemQuaTrinh>
+			<DiemThanhPhan>-1</DiemThanhPhan>
+		</MonHoc>
+	</DangKy>
+	<DangKy>
+		<MSSV>2001200011</MSSV>
+		<MonHoc>
+			<TenMH>Cấu trúc rời rạc</TenMH>
+			<SoTiet>45</SoTiet>
+			<DiemQuaTrinh>-1</DiemQuaTrinh>
+			<DiemThanhPhan>-1</DiemThanhPhan>
+		</MonHoc>
+	</DangKy>
+</DSMHDK>
